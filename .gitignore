@@ -1,0 +1,11 @@
+\.idea
+target/
+*.iml
+nb-configuration.xml
+nbactions.xml
+.classpath
+.project
+.settings/
+*.class
+hs_err_pid*
+*.csv
